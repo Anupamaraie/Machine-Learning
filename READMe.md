@@ -1,0 +1,1 @@
+This repo contains the basic machine learning projects as I learn.
